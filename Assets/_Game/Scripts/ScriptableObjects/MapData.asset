@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ce828f4abf73fa45850bbe0b9cff6ae, type: 3}
+  m_Name: MapData
+  m_EditorClassIdentifier: 
+  maps:
+  - ID: 1
+    typeMap: 0
+    cakePos: 2
+    boxPos: 8
+    obstaclePos: 
+  - ID: 2
+    typeMap: 0
+    cakePos: 4
+    boxPos: 6
+    obstaclePos: 0300000007000000
+  - ID: 3
+    typeMap: 0
+    cakePos: 8
+    boxPos: 2
+    obstaclePos: 010000000600000007000000
+  - ID: 4
+    typeMap: 1
+    cakePos: 7
+    boxPos: 4
+    obstaclePos: 0300000008000000
+  - ID: 5
+    typeMap: 1
+    cakePos: 12
+    boxPos: 6
+    obstaclePos: 05000000090000000a000000
